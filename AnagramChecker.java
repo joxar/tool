@@ -3,7 +3,7 @@ package tool;
 /*
  * This class is for checking whether given strings are anagrams
  */
-public class AnagramChecker implements StringTool {
+public class AnagramChecker {
 	
 	private String str_x = "";
 	private String str_y = "";

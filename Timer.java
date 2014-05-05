@@ -3,7 +3,7 @@ package tool;
 /*
  * This class is for measuring the running time of program
  */
-public class Timer implements Tool {
+public class Timer implements CommonTool {
 	private String procName = "";
 	private long start;
 	private long stop;
